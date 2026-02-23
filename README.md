@@ -63,3 +63,6 @@ However your fork of the repository will not automatically update.
 
 To get the latest workbook, head to `github.com/YOUR-USERNAME/NPSC2002-workshops`,
 and synchronise your version by using the **"🔄 - Sync Fork"** button.
+
+You may be prompted with "Discard changes" or "Update".
+MAKE SURE YOU CHOOSE "**UPDATE**", to avoid loosng your previous work.
